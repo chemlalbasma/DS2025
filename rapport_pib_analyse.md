@@ -95,6 +95,7 @@ L'analyse repose sur une approche quantitative combinant statistiques descriptiv
 - **Fin** : 31 décembre 2024
 - **Fréquence** : Données annuelles
 - **Nombre d'observations** : 10 points temporels par pays (100 observations totales)
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/1f5efe68-50ec-4da5-af21-67b861d2fdc3" />
 
 **Justification de la période :**
 Cette décennie capture plusieurs événements économiques majeurs : reprise post-crise de 2008, guerre commerciale USA-Chine (2018-2019), pandémie COVID-19 (2020-2021), et période de reprise et d'inflation (2022-2024).
@@ -593,6 +594,4 @@ print("\nTopPour inserer une phot, un graphique, un logo
 Pour inserer une phot, un graphique, un logo
 Pour inserer une phot, un graphique, un logo
 ![TEST IMAGE]
-<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/96f3b4e0-adf5-4ca9-bd77-8a058f80b2b2" />
-
-)
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/96f3b4e0-adf5-4ca9-bd77-8a058f80b2b2" />)
