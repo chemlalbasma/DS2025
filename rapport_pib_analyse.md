@@ -587,4 +587,6 @@ print("\n" + "-"*80)
 print("ANALYSE DE LA STABILITÉ DE LA CROISSANCE")
 print("-"*80)
 
-print("\nTop 3 des pays avec la croissance la plus
+print("\nTopPour inserer une phot, un graphique, un logo
+![TEST IMAGE](d<img width="1389" height="989" alt="I1" src="https://github.com/user-attachments/assets/8440df78-aad3-45ad-96cf-edc35321e6a5" />
+) 3 des pays avec la croissance la plus
