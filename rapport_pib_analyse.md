@@ -591,4 +591,6 @@ print("-"*80)
 
 print("\nTopPour inserer une phot, un graphique, un logo
 Pour inserer une phot, un graphique, un logo
-![TEST IMAGE](<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/01f0db65-bf9a-4578-a41f-6f0a55892028" />)
+Pour inserer une phot, un graphique, un logo
+![TEST IMAGE](<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/598a51c3-7237-46d8-87c9-d325e7a1a01f" />
+)
