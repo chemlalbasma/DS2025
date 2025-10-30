@@ -588,5 +588,6 @@ print("ANALYSE DE LA STABILITÉ DE LA CROISSANCE")
 print("-"*80)
 
 print("\nTopPour inserer une phot, un graphique, un logo
-![TEST IMAGE](d<img width="1389" height="989" alt="I1" src="https://github.com/user-attachments/assets/8440df78-aad3-45ad-96cf-edc35321e6a5" />
-) 3 des pays avec la croissance la plus
+Pour inserer une phot, un graphique, un logo
+![TEST IMAGE](<img width="1389" height="989" alt="I1" src="https://github.com/user-attachments/assets/50d6f668-9ad1-4265-932c-d1cbcc311bbc" />
+)
