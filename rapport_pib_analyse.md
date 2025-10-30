@@ -4,6 +4,8 @@
 CHEMLAL BASMA
 ---
 
+![CHEMLAL BASMA PHOTO](https://github.com/user-attachments/assets/dfb67c64-e36e-43c9-be05-c3d0197d2c62)
+
 ## 1. INTRODUCTION ET CONTEXTE
 
 ### 1.1 Objectif de l'analyse
