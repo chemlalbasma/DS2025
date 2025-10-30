@@ -1,6 +1,7 @@
-# Rapport d'Analyse Approfondie du PIB
+# Rapport analyse approfondie du PIB
 ## Étude Comparative Internationale (2015-2024)
 
+CHEMLAL BASMA
 ---
 
 ## 1. INTRODUCTION ET CONTEXTE
