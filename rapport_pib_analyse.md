@@ -1,6 +1,8 @@
 # Rapport analyse approfondie du PIB
 ## Étude Comparative Internationale (2015-2024)
 
+<img width="629" height="635" alt="ENCG-SETTTAAAT" src="https://github.com/user-attachments/assets/02e475fa-72bf-43f5-acb1-f84509bc0254" />
+
 CHEMLAL BASMA
 ---
 
